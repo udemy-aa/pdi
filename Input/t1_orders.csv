@@ -1,0 +1,5 @@
+order_id;item_id;ordered_amount;address;
+1;2;44;address 111;
+2;5;10;address 222;
+3;6;12;address 333;
+4;2;44;address 444;
